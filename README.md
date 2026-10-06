@@ -24,8 +24,8 @@ According to the commit history, Spiros Maggioros wrote most of the framework (d
 The commands in this README were tested, with fewer epochs, on macOS with Python 3.10.18, PyTorch 2.9.1, PyTorch Geometric 2.7.0, karateclub 1.3.3 and scikit-learn 1.7.2.
 
 ```bash
-git clone https://github.com/eleninspl/graph-embeddings-vs-gnns.git
-cd graph-embeddings-vs-gnns
+git clone https://github.com/eleninspl/NTUA-InformationSystems.git
+cd NTUA-InformationSystems
 python3.10 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
